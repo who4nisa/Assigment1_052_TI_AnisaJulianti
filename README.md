@@ -20,7 +20,8 @@
 }
    ```
 4. Ini adalah hasil outputnya
-<img width="960" alt="Screenshot 2023-11-02 220249" src="https://github.com/who4nisa/Assigment1_052_TI_AnisaJulianti/assets/147330029/16617def-c6e9-44f8-91f7-174d3f37aa25">
+
+<img width="960" alt="Screenshot 2023-11-03 144309" src="https://github.com/who4nisa/Assigment1_052_TI_AnisaJulianti/assets/147330029/ddbb678c-e8c9-4a73-9779-d0ce744f7505">
 
 
 ## Tugas 2
@@ -47,15 +48,16 @@ number = scanner.nextInt();
 }
    ```
 4. Ini adalah hasil outputnya
-![Screenshot (226)](https://github.com/ahmad61539/Assigment1_Akhmat/assets/71858233/56713274-ac82-4c66-b410-3abf018e16d6)
+<img width="960" alt="Screenshot 2023-11-03 144344" src="https://github.com/who4nisa/Assigment1_052_TI_AnisaJulianti/assets/147330029/867443bb-beb5-4ee2-b268-9b545b2d398c">
+
 
 ## Tugas 3
-1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 15 3 untuk tanggal 15 Maret). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
+1. Kode ini membuat objek Scanner untuk menerima input dari pengguna melalui konsol. Pengguna diminta memasukkan tanggal lahir dalam format "hari bulan" (contoh: 29 7 untuk tanggal 29 Juli). Input tersebut disimpan dalam variabel day dan month. Selanjutnya, program memanggil fungsi determineZodiacSign(day, month) untuk menentukan zodiak berdasarkan input pengguna. Hasilnya disimpan dalam variabel zodiacSign untuk digunakan selanjutnya.
 ```sh
    Scanner scanner = new Scanner(System.in);
         int day, month;
 
-        System.out.print("Masukkan tanggal lahir (contoh: 15 3 untuk tanggal 15 Maret): ");
+        System.out.print("Masukkan tanggal lahir (contoh: 29 7 untuk tanggal 29 Juli ): ");
         day = scanner.nextInt();
         month = scanner.nextInt();
 
@@ -93,7 +95,8 @@ number = scanner.nextInt();
         }
    ```
 5. Ini adalah hasil outputnya
-![Screenshot (227)](https://github.com/ahmad61539/Assigment1_Akhmat/assets/71858233/b45810ce-7f82-41b8-ba3d-43095d8fa2f2)
+<img width="960" alt="Screenshot 2023-11-03 144430" src="https://github.com/who4nisa/Assigment1_052_TI_AnisaJulianti/assets/147330029/2aa07444-d027-44e6-b6ed-bbf9c30720cc">
+
 
 ## Tugas 4
 1. Kode tersebut membuat sebuah array numbers yang berisi bilangan bulat dari 1 hingga 10. Selanjutnya, menggunakan sebuah loop for, program mencetak nilai-nilai dalam array tersebut satu per satu ke layar. Hasilnya adalah mencetak bilangan 1 hingga 10 ke layar.
@@ -106,4 +109,5 @@ number = scanner.nextInt();
         }
    ```
 2. ini adalah hasil outputnya
-![Screenshot (228)](https://github.com/ahmad61539/Assigment1_Akhmat/assets/71858233/33ea9c7e-4429-45f6-8c48-59e2d394f19b)
+<img width="960" alt="Screenshot 2023-11-03 144533" src="https://github.com/who4nisa/Assigment1_052_TI_AnisaJulianti/assets/147330029/9607ea44-c68b-476b-a9de-ff30f48d7351">
+
